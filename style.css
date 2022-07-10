@@ -1,0 +1,30 @@
+
+.namoro {
+  font-size: 50px;
+  color: lightseagreen;
+
+}
+
+
+
+
+#nao{
+  display: block;
+    position: absolute;
+   
+    
+   
+width: 150px;
+}
+ 
+@media (max-width: 667px){ 
+ body{
+  max-width: 667px;
+  max-height: max-content;
+  background-color: blue;
+ }
+ #nao{
+  max-width: max-content;
+   max-height: max-content;
+ }
+}

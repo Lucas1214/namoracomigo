@@ -1,0 +1,32 @@
+.parabens{
+
+  font-size: 50px;
+  color:crimson;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+
+}
+.container {
+border-radius: 106px 113px 113px 113px;
+-webkit-border-radius: 106px 113px 113px 113px;
+-moz-border-radius: 106px 113px 113px 113px;
+background: #bfd7e1;
+width: 180vh;
+height: 95vh;
+align-items: center;
+justify-content: center;
+display: flex;
+
+
+
+}
+body{
+  background-color:lavender;
+}
+.volte {
+   margin-top: 150px;
+   position: flex;
+   display: flex;
+
+}
